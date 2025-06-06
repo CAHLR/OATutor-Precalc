@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/OATutor/static/css/main.cbfd2faf.css",
-    "main.js": "/OATutor/static/js/main.36233ee2.js",
-    "static/media/Symbola.svg": "/OATutor/static/media/Symbola.f647c9292a2da02d9ae8.svg",
-    "static/media/Symbola.eot": "/OATutor/static/media/Symbola.d25fbd520f6558203fb4.eot",
-    "static/media/Symbola.ttf": "/OATutor/static/media/Symbola.1ac5fa7f9b82ed4ce3f3.ttf",
-    "static/media/Symbola.woff": "/OATutor/static/media/Symbola.353fd9bde3c87711f5fc.woff",
-    "static/media/Symbola.woff2": "/OATutor/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
-    "index.html": "/OATutor/index.html",
-    "main.cbfd2faf.css.map": "/OATutor/static/css/main.cbfd2faf.css.map",
-    "main.36233ee2.js.map": "/OATutor/static/js/main.36233ee2.js.map"
+    "main.css": "/OATutor-Precalc/static/css/main.234d0a1d.css",
+    "main.js": "/OATutor-Precalc/static/js/main.2a43c002.js",
+    "static/media/Symbola.svg": "/OATutor-Precalc/static/media/Symbola.f647c9292a2da02d9ae8.svg",
+    "static/media/Symbola.eot": "/OATutor-Precalc/static/media/Symbola.d25fbd520f6558203fb4.eot",
+    "static/media/Symbola.ttf": "/OATutor-Precalc/static/media/Symbola.1ac5fa7f9b82ed4ce3f3.ttf",
+    "static/media/Symbola.woff": "/OATutor-Precalc/static/media/Symbola.353fd9bde3c87711f5fc.woff",
+    "static/media/Symbola.woff2": "/OATutor-Precalc/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
+    "index.html": "/OATutor-Precalc/index.html",
+    "main.234d0a1d.css.map": "/OATutor-Precalc/static/css/main.234d0a1d.css.map",
+    "main.2a43c002.js.map": "/OATutor-Precalc/static/js/main.2a43c002.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbfd2faf.css",
-    "static/js/main.36233ee2.js"
+    "static/css/main.234d0a1d.css",
+    "static/js/main.2a43c002.js"
   ]
 }
